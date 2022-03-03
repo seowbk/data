@@ -83,3 +83,9 @@ year,type,sector,count
 2019,Inpatient Hospices,Public,0
 2019,Inpatient Hospices,Not-For-Profit,2
 2019,Inpatient Hospices,Private,0
+2020,Nursing Homes,Public,24
+2020,Nursing Homes,Not-For-Profit,22
+2020,Nursing Homes,Private,31
+2020,Inpatient Hospice Palliative Care Services,Public,4
+2020,Inpatient Hospice Palliative Care Services,Not-For-Profit,6
+2020,Inpatient Hospice Palliative Care Services,Private,0
