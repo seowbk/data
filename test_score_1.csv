@@ -1,6 +1,6 @@
 first_name,last_name,age,sex,preTestScore,postTestScore
 Jason,Tan,25,m,60,75
 Mark,Chan,28,m,62,68
-Christine,Lee,,f,na,na
+Christine,Lee,na,f,na,na
 James,Milner,16,m,75,85
 Amy,Cruz,25,f,na,70
